@@ -1,0 +1,24 @@
+{
+    "meta": {
+        "code": 0,
+        "currentDate": "2015-10-07T15:42:31.145Z"
+    },
+    "pagination": {},
+    "data": [
+        {
+            "_id": "55d33b608b836081500007fc",
+            "name": "Bhaj Krishna Kanhaiya",
+            "type": "mantra"
+        },
+        {
+            "_id": "55d33c668b83608150001bf4",
+            "name": "Momu Joopara Krishna",
+            "type": "chapter"
+        },
+        {
+            "_id": "55d33c698b83608150001d42",
+            "name": "Krishna Nee Begane Baro",
+            "type": "chapter"
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:background="#ff8833"
+    android:layout_height="match_parent">
+<Button
+    android:id="@+id/start_serv_btn"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Start service"/>
+
+    <Button
+        android:id="@+id/start_activity_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Activity Delayed"/>
+    <Button
+        android:id="@+id/battery_dialog_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Battery Activity"/>
+
+</LinearLayout>

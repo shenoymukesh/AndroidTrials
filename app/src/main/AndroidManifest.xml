@@ -44,6 +44,7 @@
         <activity android:name=".DummyActivity" >
 
         </activity>
+        <activity android:name=".UploadActivity" />
         <service android:name=".LongRunningService" />
         <receiver android:name=".PowerChangeReceiver">
             <intent-filter>
